@@ -16,8 +16,6 @@ Most cloud security programs pass every audit and still get breached. Compliance
 
 13+ years leading enterprise cloud, security, and application architecture, most recently as Systems/IT Architect Lead at Georgia Tech Research Institute, where I define cloud migration strategy and author IaC frameworks (Terraform/Bicep) for federal research workloads.
 
-Currently pursuing AZ-104 and AZ-400.
-
 ## Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/torykeit) — feel free to reach out if you're working on identity security, zero-trust architecture, or DevSecOps tooling.
